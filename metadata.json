@@ -1,0 +1,5 @@
+{
+  "name": "The Split-Brain Interface",
+  "description": "A split-screen Markdown editor with an AI research assistant (Vibe Deck) that reacts to your writing in real-time, manages citations, and ghost-writes in your specific style.",
+  "requestFramePermissions": []
+}
